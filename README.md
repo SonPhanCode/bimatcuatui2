@@ -10,7 +10,9 @@
 ## Github: https://github.com/SonPhanCode
 
 ## Zalo: +84 353944912
+
 Các bạn mở file config.js và sửa nội dung theo mẫu
+
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Trái đất vốn lạ thường
